@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "6MaPHmhuRP3pfmiB0o2nDSxLorZYTV67XqrVyF3OCoQ",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["o7eBc5tlBjuEx-Ud2FRtNWHo6VIw"],
+"user": ["o7eBc5tlBjuEx-Ud2FRtNWHo6VIw","o7eBc5tYj63uhK-LqewNsmyyOnoI", "o7eBc5gzbOmRLsCnDArpnq7ZzgBY"],
 
 # 信息配置
 # 和风天气apikey
@@ -17,13 +17,14 @@
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "太原市",
 # 生日1
-"birthday1": {"name": "牛牛", "birthday": "1997-01-01"},
+"birthday1": {"name": "牛牛", "birthday": "2023-06-09"},
 # 生日2
-"birthday2": {"name": "小林", "birthday": "r1997-01-01"},
-# 在一起的日子，格式同上
-"love_date": "2021-01-01",
+"birthday2": {"name": "温温", "birthday": "2022-11-30"},
+"birthday3": {"name": "成成", "birthday": "2022-11-30"},
+
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
 "note_en": ""
+"note": "减肥没有捷径，只有日复一日的坚持 加油~"
 }
